@@ -15,5 +15,27 @@ public class calculator {
         double num2 = scanner.nextDouble();
 
         double result;
+
+        switch (operator) {
+            case '+':
+                result = num1 + num2;
+                break;
+            case '-':
+                result = num1 - num2;
+                break;
+            case '*':
+                result = num1 * num2;
+                break;
+            case'/':
+                if (num2 == 0) {
+                    System.out.println("ERROR: Division by zero is not allowed");
+                    return;
+                }
+                result = num1 / num2;
+                break;
+            default:
+                System.out.println("ERROR: Operator not recognized");
+                return;
+        }
     }
 }
