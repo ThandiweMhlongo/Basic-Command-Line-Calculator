@@ -25,3 +25,12 @@ Follow the on-screen prompts to enter your numbers and the desired operator.
 ## Screenshots of project in action
 Addition:
 ![image alt](https://github.com/ThandiweMhlongo/Basic-Command-Line-Calculator/blob/main/add.png?raw=true)
+
+Division:
+![image alt](https://github.com/ThandiweMhlongo/Basic-Command-Line-Calculator/blob/main/division.png?raw=true)
+
+Subtraction:
+![image alt]()
+
+Multiplication
+![image alt]()
