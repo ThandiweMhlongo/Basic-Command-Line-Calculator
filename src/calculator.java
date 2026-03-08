@@ -37,5 +37,7 @@ public class calculator {
                 System.out.println("ERROR: Operator not recognized");
                 return;
         }
+        System.out.println("Result: " + result);
+        scanner.close();
     }
 }
