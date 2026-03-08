@@ -30,7 +30,7 @@ Division:
 ![image alt](https://github.com/ThandiweMhlongo/Basic-Command-Line-Calculator/blob/main/division.png?raw=true)
 
 Subtraction:
-![image alt]()
+![image alt](https://github.com/ThandiweMhlongo/Basic-Command-Line-Calculator/blob/main/minus.png?raw=true)
 
 Multiplication
-![image alt]()
+![image alt](https://github.com/ThandiweMhlongo/Basic-Command-Line-Calculator/blob/main/times.png?raw=true)
